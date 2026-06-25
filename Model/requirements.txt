@@ -1,0 +1,32 @@
+# --- AI & Machine Learning Engines ---
+tensorflow>=2.15.0
+# Note: Whisper and Transformers require PyTorch as a backend
+torch
+torchvision
+torchaudio
+openai-whisper
+transformers
+sentence-transformers
+numpy
+
+# --- Analytics & Visualization (For your graphs/Confusion Matrix) ---
+scikit-learn
+matplotlib
+seaborn
+scipy
+
+# --- Image Processing ---
+opencv-python
+Pillow
+
+# --- Speech & Translation (User Stories 1-4) ---
+gTTS
+deep-translator
+langdetect
+
+# --- Infrastructure & API ---
+requests
+python-dotenv
+
+# --- Utilities ---
+IPython
