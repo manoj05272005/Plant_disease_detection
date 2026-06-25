@@ -1,0 +1,2 @@
+# Keep this directory in git
+# Large model files are in .gitignore, but label maps and configs are tracked
