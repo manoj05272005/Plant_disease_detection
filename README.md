@@ -1,3 +1,4 @@
+https://manoj05272005.github.io/Plant_disease_detection/
 # 🌾 AI-Enabled Crop Disease Detection & Remediation System
 
 <div align="center">
